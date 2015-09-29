@@ -18,9 +18,9 @@ Github 本身俨然成为了 Geek 文化的一种象征。
 
 ## Github Flow
 前面说了这么多，正题还没讲呢！标题是细说 Github 流程
-但如果真要细说 Github 里面的内容，估计可以写出一本书。
+，但如果真要细说 Github 里面的内容，估计可以写出一本书。
 因为 Github 毕竟是一个复杂的软件系统，不同人在使用 Github 时会有自己不同的流程。
-不明白的，可以类比 MS word。
+不明白的，可以类比微软的 Office 软件。
 
 Github 官方提供了一个略复杂但很有效的任务系统。
 
@@ -30,4 +30,11 @@ Github 官方提供了一个略复杂但很有效的任务系统。
 4. Discuss and review your code
 5. Deploy/Merge
 
-我只能挑选最重要的内容
+我只能挑选最重要的内容介绍，而且这东西是实践出真知的。
+
+
+
+to be continued
+
+
+
